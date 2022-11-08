@@ -1,8 +1,8 @@
-Serenity report generated 07-11-2022 11:05
+Serenity report generated 08-11-2022 11:13
 18 test scenarios (26 tests in all, including 10 rows of test data)
 
-Passed:             18
-Failed:             0
+Passed:             17
+Failed:             1
 Failed with errors: 0
 Compromised:        0
 Pending:            0
