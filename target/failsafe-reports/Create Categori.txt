@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: Create Categori
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.477 s - in Create Categori
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.155 s - in Create Categori

@@ -13,7 +13,7 @@ Feature: Register
     And I will get status code is "<result>"
     Examples:
     | email| password| fullname| result|
-    | ahha2@gmail.com| 123123| agil| succes|
+    | uhuy@gmail.com| Uhuy123!| uhuy| succes|
     | ahha@gmail.com| 231233| ahha aja| error|
     | | 231233| ahha aja| error|
     | ahha@mail.com| | ahha aja| error|
